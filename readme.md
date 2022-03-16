@@ -1,1 +1,1 @@
-This repository includes data and R code for STL analysis used in the manuscript Anderson, et al (2020) "The deep water dynamics of climate change in one of Earth's largest lakes", submitted to *Nature*.
+This repository includes data and R code for STL analysis used in Anderson, et al (2021) "The deep water dynamics of climate change in one of Earth's largest lakes", *Nature Communications*, 12(1): 1-9.
